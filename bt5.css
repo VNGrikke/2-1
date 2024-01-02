@@ -1,0 +1,13 @@
+div{
+    background-color: rgb(172, 254, 254);
+    width: 200px;
+}
+div:hover{
+    background-color: gainsboro;
+    color: red;
+    margin-left: 20px;
+    transition: all 1s;
+    
+}
+
+

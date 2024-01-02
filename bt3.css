@@ -1,0 +1,15 @@
+.bg{
+    background-color: rgb(205, 255, 255);
+    width: 200px;
+}
+.content{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(2, 229, 229);
+}
+.content:hover{
+    margin-left: 100px;
+    border-radius: 50%;
+    transition: all 5s;
+    background-color: red;
+}

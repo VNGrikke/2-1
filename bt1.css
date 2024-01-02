@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    width: 250px;
+    background-color: rgb(255, 202, 133);
+}
+div{
+    padding-left: 10px;
+}
+.age:hover{
+    background-color: yellow;
+}
+

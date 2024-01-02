@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div{
+    padding-left: 10px;
+    
+}
+ul{ 
+    padding-left: 15px;
+    background-color: blue;
+    width: 2px;
+}
+.content{
+    display: none;
+}
+ul.content:hover{
+    display: inline;
+    width: 100px;
+    transition: all 2s;
+}

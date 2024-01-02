@@ -1,0 +1,12 @@
+div{
+    width: 200px;
+    height: 350px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+img{
+    width: 200px;
+}
+p,b{
+    padding-left: 10px;
+    margin: 0;
+}
